@@ -90,3 +90,20 @@ img {
   z-index: 2;
   cursor: pointer;
 }
+
+.contact-format {
+  display: flex;
+  margin-left: 6.5%;
+  height: 200px;
+  width: 200px;
+}
+
+footer p {
+  font-size: 15px;
+  position: relative;
+  height: 30px;
+  color: #fff;
+  background-color: black;
+  padding: 10px;
+  clear: both;
+}
